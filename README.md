@@ -8,7 +8,7 @@ The **Secure File Encryption System** is a Java-based application that allows us
 * Java Swing (GUI)
 * Java Cryptography Architecture (JCA)
 
-## 🔐 Cryptographic Techniques Used
+##  Cryptographic Techniques Used
 
 * AES (Advanced Encryption Standard) for file encryption
 * SHA-256 for file integrity verification
