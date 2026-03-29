@@ -17,9 +17,14 @@ The **Secure File Encryption System** is a Java-based application that allows us
 
 
 # SCREENSHOTS
-HOMEPAGE
+## HOMEPAGE
+
 <img width="682" height="354" alt="image" src="https://github.com/user-attachments/assets/04532c75-dc28-4afd-97e9-772b346554ab" />
+# Encryption
+
 <img width="675" height="349" alt="image" src="https://github.com/user-attachments/assets/68049b9d-ece7-4fe9-bef4-814527a5c878" />
+# Decryption
+
 <img width="672" height="343" alt="image" src="https://github.com/user-attachments/assets/36e91245-d6fd-4735-9ff9-e626f129b8c8" />
 <img width="675" height="315" alt="image" src="https://github.com/user-attachments/assets/f60d2bf8-606c-4947-8b27-6ccd11414523" />
 
